@@ -1,5 +1,5 @@
 # Word-Counting-With-Linked-List
-Text içerisindeki kelimeleri sayarak bağlı listeye adet olarak büyükten küçüğe doğru eleman ekleme.
+Text içerisindeki kelimeleri sayarak, bağlı listeye büyükten küçüğe doğru adet olarak eleman ekleme.
 
 Adding elements to the linked list by counting the words in the text from the largest to the smallest.
 
